@@ -124,6 +124,15 @@ li{
 	margin-left: 10px;
 	
 }
+@media  (max-width:490px) {
+	.pages{
+	
+		
+		flex-direction: row;
+	}
+	
+}
+
 .page button{
 	background-color:rgb(155, 217, 228);
 	width: 100px;

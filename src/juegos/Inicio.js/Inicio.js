@@ -102,7 +102,7 @@ export const Inicio =() => {
          value={usuario}
          placeholder="Ingrese su juego"
          />
-           <div className='page'>
+        <div className='page'>
         <button type='button' className='but'  onClick={PagAnt}>Anterior</button>
         <button type='button' onClick={PagNext}>next</button>
     
